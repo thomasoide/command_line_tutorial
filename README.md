@@ -6,7 +6,7 @@ This is everything you need to know to run the django-rmp-data project from the 
 
 A quick explanation about what this means. From the Finder bar, click the 'Go' tab and select home. You should see something like this: 
 
-(/home.png)
+![home](/home.png)
 
 This is what's called your home directory. It houses your desktop, documents, music, photos, etc. If you use finder a lot, you'll see that they are directories you use on a daily basis. 
 
@@ -18,7 +18,7 @@ ls
 
 So if you compare the two screens, you'll see that they are basically the same. This is where your terminal always starts. 
 
-(/home_terminal.png)
+![terminal](/home_terminal.png)
 
 So, what does the command 'cd' actually mean? 
 
