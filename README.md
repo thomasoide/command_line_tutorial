@@ -70,5 +70,10 @@ rmp/static/rmp/style.css -- This is where all of your css will go.
 
 rmp/templates/rmp/*.html -- This is where all of the html templates are. accident_list.html has all of the comments I wrote to guide you guys if you forgot what everything does. 
 
+## 6. When you're done working with the project
 
+Go back to your Terminal and type control + c to shutdown the local web server. Note: It's not the command key that you'd usually use to copy and paste stuff. 
 
+Once you close down the web server, hit control + d to exit the virtual environment. 
+
+You'll need to start the process over again from Step 1 to restart the server. 
