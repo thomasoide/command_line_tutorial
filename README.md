@@ -67,6 +67,7 @@ Any changes you make to the page should appear in real-time, just like on Github
 Remember, the files you will be working with are in two locations: 
 
 rmp/static/rmp/style.css -- This is where all of your css will go. 
+
 rmp/templates/rmp/*.html -- This is where all of the html templates are. accident_list.html has all of the comments I wrote to guide you guys if you forgot what everything does. 
 
 
